@@ -1,7 +1,7 @@
 <h1 align="center">🛡️ N3tHawk — Cybersecurity | AI | Tech 🚀</h1>
 
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/ytc/AGIKgqPm1W5Xc6UoU0UkXLhYzQq9Xn82GH8LHHWB_AHk=s176-c-k-c0x00ffffff-no-rj" width="120" alt="N3tHawk Logo" />
+  <img src="https://yt3.googleusercontent.com/11iMEhligrhkF-gXHp8q_ngAwU2AFhaJ6tJ_aXVLdVhCFIQ5tcZoW3yoxizl2YANZRmT2h3-=s160-c-k-c0x00ffffff-no-rj" width="120" alt="N3tHawk Logo" />
 </p>
 
 <p align="center">
