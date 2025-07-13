@@ -37,6 +37,9 @@
   </a>
 </p>
 
+[![Latest Videos](https://youtube-card.vercel.app/?id=UCyPex_7oI-saImLFmrrXp-g&title=🔥 N3tHawk Cybersecurity Videos&latest=6&theme=dark)](https://www.youtube.com/@N3tHawk)
+ 
+
 > 🔥 **Latest Upload:** [Watch on YouTube](https://www.youtube.com/@N3tHawk/videos)  
 > 📅 Uploaded: `Update This`  
 > 👁️ Views: `Update This`
